@@ -1,3 +1,14 @@
-h1 {
-    color: red;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #1d1d1d;
+    color: #fff;
+    text-align: center;
+    max-width: 500px;
+    margin: auto;
+    padding: 50px;
 }
